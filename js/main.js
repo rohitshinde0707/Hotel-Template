@@ -33,23 +33,13 @@ document.addEventListener("DOMContentLoaded", () => {
                     clearInterval(timer);
                 }
             }, step);
-    } 
+    }
 
     counter("count1", 0, 1289, 2800);
     counter("count2", 0, 7089, 2800);
     counter("count3", 0, 1489, 2800);
     counter("count4", 0, 5089, 2800);
 });
-
-
-
-
-
-
-
-
-
-
 
 // Swiper Slide
 var Swiper = new Swiper(".mySwiper", {
@@ -63,3 +53,31 @@ var Swiper = new Swiper(".mySwiper", {
         delay: 3500,
     },
 });
+
+
+// Our Partner
+var swiper = new Swiper(".our-partner", {
+    slidesPerView: 5,
+    spaceBetween: 30,
+    loop: true,
+    autoplay: {
+        delay: 2000,
+    },
+    breakpoints: {
+        '991': {
+            slidesPerView: 5,
+            spaceBetween: 10,
+        },
+        '767': {
+            slidesPerView: 3,
+            spaceBetween: 10,
+        },
+        '320': {
+            slidesPerView: 2,
+            spaceBetween: 8,
+        },
+
+
+    },
+});
+
