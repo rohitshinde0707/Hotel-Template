@@ -1,30 +1,9 @@
-![Screenshot 2025-02-08 020417](https://github.com/user-attachments/assets/75c5e74d-df58-4640-a140-e45bb948cbf6)# Hotel-Template
-<h1> Home page / Book Now </h1>
-</br>
-![Screenshot 2025-02-08 020141](https://github.com/user-attachments/assets/c4d91294-ab47-4709-a570-90bcbbc311e4)
-</br>
-
-<h1> About us </h1>
-![Screenshot 2025-02-08 020655](https://github.com/user-attachments/assets/dfd00abe-51df-4772-8331-e4a94486b2d5)
-</br>
-
-<h1> Rooms </h1>
-![Screenshot 2025-02-08 020233](https://github.com/user-attachments/assets/d14bad6a-14ac-4844-92d1-607334aa4214)
-</br>
-<h1> Services </h1>
-![Screenshot 2025-02-08 020305](https://github.com/user-attachments/assets/c18bcc38-955c-48dd-b0ae-3a12ab39d716)
-</br>
-<h1> Team</h1>
-![Screenshot 2025-02-08 020324](https://github.com/user-attachments/assets/39be327c-3b5f-4c6a-b50c-ef1701fc9789)
-</br>
-<h1>Gallary</h1>
-![Screenshot 2025-02-08 020344](https://github.com/user-attachments/assets/dd098ecc-d6c4-42dd-bae1-f7d737f613e8)
-</br>
-<h1>Prices</h1>
-![Screenshot 2025-02-08 020400](https://github.com/user-attachments/assets/1540bea5-e8a2-4b70-b956-57ee8258a37a)
-</br>
-<h1>Blog</h1>
-![Screenshot 2025-02-08 020417](https://github.com/user-attachments/assets/453d8c87-2253-4cd8-9257-23ca20ef1873)
-</br>
-<h1>Footer</h1>
-![Screenshot 2025-02-08 020441](https://github.com/user-attachments/assets/9b9d3113-755c-49c7-ac5d-fa4649a77320)
+![Screenshot 2025-02-08 020141](https://github.com/user-attachments/assets/e7e1a370-a80e-41f2-b07b-49f272167427)
+![Screenshot 2025-02-08 020233](https://github.com/user-attachments/assets/9f0ab750-f338-49bc-8910-73c3f9140a51)
+![Screenshot 2025-02-08 020305](https://github.com/user-attachments/assets/aa09360c-fbaf-46c4-9cab-677a38a5aad3)
+![Screenshot 2025-02-08 020324](https://github.com/user-attachments/assets/7ba98847-abfd-4dd9-86f3-2c598a0fd212)
+![Screenshot 2025-02-08 020344](https://github.com/user-attachments/assets/ff3d179b-3dd1-4245-9d2b-cbfc6087432d)
+![Screenshot 2025-02-08 020400](https://github.com/user-attachments/assets/63485c31-c5ea-456e-8404-779c7c26164c)
+![Screenshot 2025-02-08 020417](https://github.com/user-attachments/assets/8ee75aa0-1364-43d3-9998-b6856384418e)
+![Screenshot 2025-02-08 020655](https://github.com/user-attachments/assets/00c7f91f-4e6f-47a7-8d90-08bad9094adc)
+![Screenshot 2025-02-08 020441](https://github.com/user-attachments/assets/8f56b07d-ec0b-47f6-b0ad-6bb435f1f3f6)
