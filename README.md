@@ -1,6 +1,7 @@
 ![Screenshot 2025-02-08 020417](https://github.com/user-attachments/assets/75c5e74d-df58-4640-a140-e45bb948cbf6)# Hotel-Template
 <h1> Home page / Book Now </h1>
-</br>![Screenshot 2025-02-08 020141](https://github.com/user-attachments/assets/c4d91294-ab47-4709-a570-90bcbbc311e4)
+</br>
+![Screenshot 2025-02-08 020141](https://github.com/user-attachments/assets/c4d91294-ab47-4709-a570-90bcbbc311e4)
 </br>
 
 <h1> About us </h1>
